@@ -34,3 +34,12 @@ Dit is een voorbeeld van D3.js, dit leek mij een goede inspiratiebron om werkeli
 ## Functional Programming 
 
 [wiki naar functional programming](https://github.com/joanpadolina/functional-programming/wiki/Functional-Programming)
+
+## D3 
+
+D3 process is [in mijn wiki](https://github.com/joanpadolina/functional-programming/wiki/D3-Let's-build-something) te vinden
+
+## Credits
+
+[mbostock](https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2)
+
