@@ -12,8 +12,8 @@
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height"),
-    innerRadius = 180,
-    outerRadius = Math.min(width, height) / 2.3,
+    innerRadius = 100,
+    outerRadius = Math.min(width, height) / 2.4,
     g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 var x = d3.scaleBand()
@@ -24,7 +24,7 @@ var y = d3.scaleRadial()
     .range([innerRadius, outerRadius]);
 
 var z = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+    .range(["#98abc5", "#6b486b", "#a05d56", "#d0743c", "#ff8c00", "#7b6888"]);
 
 d3.csv("data.csv", function(d, i, columns) {
   for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
@@ -97,7 +97,7 @@ d3.csv("data.csv", function(d, i, columns) {
   yAxis.append("text")
       .attr("y", function(d) { return -y(y.ticks(5).pop()); })
       .attr("dy", "-1em")
-      .text("Tropenmuseum en de verzameling");
+      .text("Tropenmuseum de verzameling van beelden en foto's");
 
   var legend = g.append("g")
     .selectAll("g")
