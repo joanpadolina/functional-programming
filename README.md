@@ -29,8 +29,22 @@ Wat mij vooral aantrek bij mijn schets is dat door de 'Sequence Sunburst' lijkt 
 
 Dit is een voorbeeld van D3.js, dit leek mij een goede inspiratiebron om werkelijkheid te maken voor mijn concept. 
 ![sunburst](https://github.com/joanpadolina/functional-programming/blob/master/wiki%20assets/sunburst.gif)
+Ik wil mijn concept eerst kleinschalen op aantal per land. Ik wil deze laten zien door de landen bij elkaar te zetten de collectie op beeldmaterial te showcase. 
+
+
+### Doelgroep
+Mijn doelgroep van mijn concept zijn de bezoekers van het tropenmuseum. Ik wil in een oogopslag laten zien waar de collectie vandaan komen. Zo kan je de bijzonderheid van de collectie terugvinden. 
 
 
 ## Functional Programming 
 
 [wiki naar functional programming](https://github.com/joanpadolina/functional-programming/wiki/Functional-Programming)
+
+## D3 
+
+D3 process is [in mijn wiki](https://github.com/joanpadolina/functional-programming/wiki/D3-Let's-build-something) te vinden
+
+## Credits
+
+[mbostock](https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2)
+
