@@ -2,14 +2,14 @@
  Een D3.js implementatie van de data uit het Tropenmuseum. 
 
  ## Leerdoelen
-- [ ] Concept onderzoek
-- [ ] Data onderzoek
-- [ ] Data opschonen
-- [ ] Functionele javascript schrijven
+- [x] Concept onderzoek
+- [x] Data onderzoek
+- [x] Data opschonen
+- [x] Functionele javascript schrijven
 - [ ] Externe data zoeken
-- [ ] Datavisualisatie maken van de dataset
+- [x] TEST visualisatie maken van de dataset
 - [ ] Vanilla javascript (freecodecamp etc)
-- [ ] D3.js
+- [ ] D3.js data opzet bekijken
 
  ## Debriefing | Rick
 
