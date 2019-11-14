@@ -37,8 +37,16 @@ Ik wil mijn concept eerst kleinschalen op aantal per land. Ik wil deze laten zie
 Mijn doelgroep van mijn concept zijn de bezoekers van het tropenmuseum. Ik wil in een oogopslag laten zien waar de collectie vandaan komen. Zo kan je de bijzonderheid van de collectie terugvinden. 
 
 ## Eerste opzet
+Wat had ik nodig?
+Om het klein te schalen heb ik van de collectie de beelmaterialen nodig van alleen Afrika. Mijn gedetailleerde query kan gevonden worden op [mijn Sparql](https://github.com/joanpadolina/functional-programming/wiki/SparQl) wiki.
+Met SparQL heb ik data binnengehaald van alle beeldmaterialen in afrika. 
 
-Om mijn data te versimpelen heb ik het in een excel bestand geplaatst en dat ziet er als volg uit:
+De data ziet er als volg uit:
+Omdat ik alles binnenhaal van Afrika heeft geeft ie mij per plaats de aantallen aan wat dus niet handig is aangezien alles in Afrika hoort te zijn.
+
+![data](https://github.com/joanpadolina/functional-programming/blob/master/wiki%20assets/datacsv.gif)
+
+Ik heb deze data daarom in een excel bestand gedaan zodat ik een beter beeld krijg van de data die ik binnen haal. Dit heb ik versimpeld en dat ziet er als volg uit:
 
 ![excel](https://github.com/joanpadolina/functional-programming/blob/master/wiki%20assets/excel.png)
 
@@ -48,7 +56,6 @@ Daarna om het uit te beelden heb ik een chart gepakt van excel om te kijken hoe 
 
 
 ## Mijn uiteindelijk visualisatie van de collectie [Beeldmaterialen](https://joanpadolina.github.io/functional-programming/)
-
 
 
 
