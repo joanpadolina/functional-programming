@@ -29,11 +29,27 @@ Wat mij vooral aantrek bij mijn schets is dat door de 'Sequence Sunburst' lijkt 
 
 Dit is een voorbeeld van D3.js, dit leek mij een goede inspiratiebron om werkelijkheid te maken voor mijn concept. 
 ![sunburst](https://github.com/joanpadolina/functional-programming/blob/master/wiki%20assets/sunburst.gif)
+
 Ik wil mijn concept eerst kleinschalen op aantal per land. Ik wil deze laten zien door de landen bij elkaar te zetten de collectie op beeldmaterial te showcase. 
 
 
 ### Doelgroep
 Mijn doelgroep van mijn concept zijn de bezoekers van het tropenmuseum. Ik wil in een oogopslag laten zien waar de collectie vandaan komen. Zo kan je de bijzonderheid van de collectie terugvinden. 
+
+## Eerste opzet
+
+Om mijn data te versimpelen heb ik het in een excel bestand geplaatst en dat ziet er als volg uit:
+
+![excel](https://github.com/joanpadolina/functional-programming/blob/master/wiki%20assets/excel.png)
+
+Daarna om het uit te beelden heb ik een chart gepakt van excel om te kijken hoe dit eruit ziet als je het visualiseert.
+
+![chart excel](https://github.com/joanpadolina/functional-programming/blob/master/wiki%20assets/excel_chart.png)
+
+
+## Mijn uiteindelijk visualisatie van de collectie [Beeldmaterialen](https://joanpadolina.github.io/functional-programming/)
+
+
 
 
 ## Functional Programming 
