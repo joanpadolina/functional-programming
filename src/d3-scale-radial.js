@@ -1,4 +1,4 @@
-//  ALL CREDITS TO MBOSTOCK 
+//  ALL CREDITS TO MIKE BOSTOCK 
 //  https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2 
 
 
