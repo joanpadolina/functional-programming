@@ -32,6 +32,7 @@ Dit is een voorbeeld van D3.js, dit leek mij een goede inspiratiebron om werkeli
 
 Ik wil mijn concept eerst kleinschalen op aantal per land. Ik wil deze laten zien door de landen bij elkaar te zetten de collectie op beeldmaterial te showcase. 
 
+### Data's die ik nodig heb kan je vinden in mijn wiki: [Concept en nodige data](https://github.com/joanpadolina/functional-programming/wiki/Concept--Datavisualisation)
 
 ### Doelgroep
 Mijn doelgroep van mijn concept zijn de bezoekers van het tropenmuseum. Ik wil in een oogopslag laten zien waar de collectie vandaan komen. Zo kan je de bijzonderheid van de collectie terugvinden. 
@@ -57,17 +58,40 @@ Daarna om het uit te beelden heb ik een chart gepakt van excel om te kijken hoe 
 
 ## Mijn uiteindelijk visualisatie van de collectie [Beeldmaterialen](https://joanpadolina.github.io/functional-programming/)
 
+## Wat is er gedaan en waar kan ik het vinden?
 
+## [Concept](https://github.com/joanpadolina/functional-programming/wiki/Concept--Datavisualisation)
+Wil je in het proces van mijn concept induiken? Hierin vertel ik over mijn inspiratiebronnen en waarom ik voor het structuur heb gekozen.
 
-## Functional Programming 
+## [Functional Programming](https://github.com/joanpadolina/functional-programming/wiki/Functional-Programming)
+Wat is Functional programming en waarom wordt het steeds populairder? Bekijk hoe ik dit aanpak met een korte toelichten wat het allemaal betekent en natuurlijk wat code snippets voor de nerds!
 
-[wiki naar functional programming](https://github.com/joanpadolina/functional-programming/wiki/Functional-Programming)
+## [Even wat oefeningen](https://github.com/joanpadolina/functional-programming/wiki/Free-Code-Camp)
+Ik merk toch al snel wanneer je codes niet meer kan begrijpen of volgen. Maar wat doe je eraan? Back to Basic. Ik heb een aantal freecodecamp tutorials gevolgd om mijn denkwijze op te schonen. 
 
-## D3 
+## [SparQL](https://github.com/joanpadolina/functional-programming/wiki/SparQl)
+Oh SparQL we meet again. Wat is het toch ingewikkeld af en toe om een goede query voor je concept te vinden. Gelukkig heb ik hulp gehad van Ivo de expert!
 
-D3 process is [in mijn wiki](https://github.com/joanpadolina/functional-programming/wiki/D3-Let's-build-something) te vinden
+## [D3 introductie](https://github.com/joanpadolina/functional-programming/wiki/D3-introductie)
+Daar gaan we dan kennismaken met die ene waarvan je niet zeker weet of jullie wel "friend compatible" zijn. Hier leg ik in mijn woorden uit wat je met D3.js kan en de handigheidjes van bepaalde codes die D3 heeft.
+
+## [D3 beginnen maar](https://github.com/joanpadolina/functional-programming/wiki/D3-Bob-de-Bouwer)
+Ja, vrienden? Niet echt. Wat is dit super eng om te gebruiken. Alles komt op je af en wow. Lees meer over hoe ik mijn uiteindelijke visualisatie voor mekaar heb gekregen.
+
 
 ## Credits
 
-[mbostock](https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2)
+[mbostock](https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2) - Radial Chart
+
+Wiebe Kremer - support
+
+Coen Mathijsen - support
+
+Laurens - stappenplan opzet
+
+Robertt - langzaam codes uitleg
+
+Tropenmuseum/NMVW - data collectie
+
+Ivo - Sparql
 
