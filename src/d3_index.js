@@ -1,3 +1,6 @@
+//  ALL CREDITS TO MIKE BOSTOCK 
+//  https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2 
+
 // Dit hoe de radial chart uit ziet in een svg
 let svg = d3.select("svg"),
     width = +svg.attr("width"),
