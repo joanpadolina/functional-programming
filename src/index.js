@@ -11,7 +11,28 @@ const url ="https://api.data.netwerkdigitaalerfgoed.nl/datasets/ivo/NMVW/service
 // Amerika 6782
 // Azie 8401
 
-let queryTermaster = 3
+
+let termmasterCodes = {
+  Afrika: 3,
+  Eurazie: 6025,
+  Oceanie: 6813,
+  Amerika: 6782,
+  Azie: 8401
+}
+
+
+// for (termmasterCodes in termmasterCodes)
+//   console.log(termmasterCodes)
+// }
+
+// termmasterCodes.forEach(element => console.log(termmasterCodes))
+
+let valueOfTermmaster = Object.values(termmasterCodes)
+console.log(valueOfTermmaster)
+for(termmasterCodes in termmasterCodes){
+  console.log(termmasterCodes)
+}
+let queryTermaster = valueOfTermmaster[1]
 
 const query = `
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
@@ -55,8 +76,9 @@ function beeldMaterialenPerLand(url, query){
         return item.choCount.value * 1
     })
     const reducer = (accumulator, currentValue) => accumulator + currentValue;
-    console.log(`Er zijn ${choCountItems.reduce(reducer)} beeldmaterialen gevonden`)
+    console.log(`Er zijn ${choCountItems.reduce(reducer)} beeldmaterialen gevonden in Afrika`)
     console.log('Alle data vind je hier',results)
+    console.log('choCount resultaten', choCountItems)
 //   console.table(json.results);
 //   el.textContent = JSON.stringify(json.results)
   })
