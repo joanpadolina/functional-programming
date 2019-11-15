@@ -78,6 +78,8 @@ Daar gaan we dan kennismaken met die ene waarvan je niet zeker weet of jullie we
 ## [D3 beginnen maar](https://github.com/joanpadolina/functional-programming/wiki/D3-Bob-de-Bouwer)
 Ja, vrienden? Niet echt. Wat is dit super eng om te gebruiken. Alles komt op je af en wow. Lees meer over hoe ik mijn uiteindelijke visualisatie voor mekaar heb gekregen.
 
+## [Reduce mijn Data](https://github.com/joanpadolina/functional-programming/wiki/Reduce()-mijn-data)
+Ik haal alle beeldmaterialen op uit Afrika maar wat ik precies nodig heb is de aantal. Met reduce kon ik dit aantal krijgen en de stappen kan je hier vinden!
 
 ## Credits
 
