@@ -70,10 +70,16 @@ Mijn D3 process is [in mijn wiki](https://github.com/joanpadolina/functional-pro
 ## Credits
 
 [mbostock](https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2) - Radial Chart
+
 Wiebe Kremer - support
+
 Coen Mathijsen - support
+
 Lauren - stappenplan opzet
+
 Robert - langzaam codes uitleg
+
 Tropenmuseum/NMVW - data collectie
+
 Ivo - Sparql
 
