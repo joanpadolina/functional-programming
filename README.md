@@ -57,15 +57,26 @@ Daarna om het uit te beelden heb ik een chart gepakt van excel om te kijken hoe 
 
 ## Mijn uiteindelijk visualisatie van de collectie [Beeldmaterialen](https://joanpadolina.github.io/functional-programming/)
 
+## Wat is er gedaan en waar kan ik het vinden?
 
+## [Concept](https://github.com/joanpadolina/functional-programming/wiki/Concept--Datavisualisation)
+Wil je in het proces van mijn concept induiken? Hierin vertel ik over mijn inspiratiebronnen en waarom ik voor het structuur heb gekozen.
 
-## Functional Programming 
-Hoe heb ik functional programming ervaren en wat zijn mij opgevallen tijdens het opschonen van de Survey?
-[wiki naar functional programming](https://github.com/joanpadolina/functional-programming/wiki/Functional-Programming)
+## [Functional Programming](https://github.com/joanpadolina/functional-programming/wiki/Functional-Programming)
+Wat is Functional programming en waarom wordt het steeds populairder? Bekijk hoe ik dit aanpak met een korte toelichten wat het allemaal betekent en natuurlijk wat code snippets voor de nerds!
 
-## D3 
-Data in een visualisatie maken zonder kennis is haalbaar als er geen voorbeelden zijn waar je mee kan oefenen en eigen data in kan plaatsen.
-Mijn D3 process is [in mijn wiki](https://github.com/joanpadolina/functional-programming/wiki/D3-Let's-build-something) te vinden
+## [Even wat oefeningen](https://github.com/joanpadolina/functional-programming/wiki/Free-Code-Camp)
+Ik merk toch al snel wanneer je codes niet meer kan begrijpen of volgen. Maar wat doe je eraan? Back to Basic. Ik heb een aantal freecodecamp tutorials gevolgd om mijn denkwijze op te schonen. 
+
+## [SparQL](https://github.com/joanpadolina/functional-programming/wiki/SparQl)
+Oh SparQL we meet again. Wat is het toch ingewikkeld af en toe om een goede query voor je concept te vinden. Gelukkig heb ik hulp gehad van Ivo de expert!
+
+## [D3 introductie](https://github.com/joanpadolina/functional-programming/wiki/D3-introductie)
+Daar gaan we dan kennismaken met die ene waarvan je niet zeker weet of jullie wel "friend compatible" zijn. Hier leg ik in mijn woorden uit wat je met D3.js kan en de handigheidjes van bepaalde codes die D3 heeft.
+
+## [D3 beginnen maar](https://github.com/joanpadolina/functional-programming/wiki/D3-Bob-de-Bouwer)
+Ja, vrienden? Niet echt. Wat is dit super eng om te gebruiken. Alles komt op je af en wow. Lees meer over hoe ik mijn uiteindelijke visualisatie voor mekaar heb gekregen.
+
 
 ## Credits
 
