@@ -32,6 +32,7 @@ Dit is een voorbeeld van D3.js, dit leek mij een goede inspiratiebron om werkeli
 
 Ik wil mijn concept eerst kleinschalen op aantal per land. Ik wil deze laten zien door de landen bij elkaar te zetten de collectie op beeldmaterial te showcase. 
 
+### Data's die ik nodig heb kan je vinden in mijn wiki: [Concept en nodige data](https://github.com/joanpadolina/functional-programming/wiki/Concept--Datavisualisation)
 
 ### Doelgroep
 Mijn doelgroep van mijn concept zijn de bezoekers van het tropenmuseum. Ik wil in een oogopslag laten zien waar de collectie vandaan komen. Zo kan je de bijzonderheid van de collectie terugvinden. 
