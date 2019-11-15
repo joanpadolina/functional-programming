@@ -60,14 +60,20 @@ Daarna om het uit te beelden heb ik een chart gepakt van excel om te kijken hoe 
 
 
 ## Functional Programming 
-
+Hoe heb ik functional programming ervaren en wat zijn mij opgevallen tijdens het opschonen van de Survey?
 [wiki naar functional programming](https://github.com/joanpadolina/functional-programming/wiki/Functional-Programming)
 
 ## D3 
-
-D3 process is [in mijn wiki](https://github.com/joanpadolina/functional-programming/wiki/D3-Let's-build-something) te vinden
+Data in een visualisatie maken zonder kennis is haalbaar als er geen voorbeelden zijn waar je mee kan oefenen en eigen data in kan plaatsen.
+Mijn D3 process is [in mijn wiki](https://github.com/joanpadolina/functional-programming/wiki/D3-Let's-build-something) te vinden
 
 ## Credits
 
-[mbostock](https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2)
+[mbostock](https://gist.github.com/mbostock/6fead6d1378d6df5ae77bb6a719afcb2) - Radial Chart
+Wiebe Kremer - support
+Coen Mathijsen - support
+Lauren - stappenplan opzet
+Robert - langzaam codes uitleg
+Tropenmuseum/NMVW - data collectie
+Ivo - Sparql
 
