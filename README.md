@@ -75,9 +75,9 @@ Wiebe Kremer - support
 
 Coen Mathijsen - support
 
-Lauren - stappenplan opzet
+Laurens - stappenplan opzet
 
-Robert - langzaam codes uitleg
+Robertt - langzaam codes uitleg
 
 Tropenmuseum/NMVW - data collectie
 
