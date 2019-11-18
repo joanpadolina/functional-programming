@@ -19,7 +19,7 @@ let y = d3.scaleRadial()
 let z = d3.scaleOrdinal()
     .range(["#98abc5", "#6b486b", "#a05d56", "#d0743c", "#ff8c00", "#7b6888"]);
 
-d3.csv("data.csv", function (d, i, columns) {
+d3.csv("../data.csv", function (d, i, columns) {
     for (i = 1, t = 0; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]];
     d.total = t;
     return d;
